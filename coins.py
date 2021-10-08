@@ -1,7 +1,7 @@
 import samino,time,os,sys
 vip = [""] # userIds
 client = samino.Client("22D3085F471DF87A00FB4CE43052685FE93239644F93AD2140B23F3C77277FF6CAE5A0C164593CD9A8")
-client.login(email="kknkk1223@gmail.com",password="912850")
+client.login(email="kknkk1223@gmail.com",password="9jaia0")
 
 @client.event("on_message")
 def on_message(data: samino.lib.Event):
